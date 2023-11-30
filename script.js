@@ -2,8 +2,6 @@
 let p1sca=document.querySelector("#score--0");
 let p1cur=document.querySelector("#current--0");
 let dice=document.querySelector(".dice");
-let p1=document.querySelector(".player--0");
-let p2=document.querySelector(".player--1");
 let player=0;
 //person 2
 let p2sca=document.querySelector("#score--1");
